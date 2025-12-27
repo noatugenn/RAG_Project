@@ -1,0 +1,43 @@
+# Virtual Environment
+jeen_project/
+venv/
+.venv/
+env/
+ENV/
+
+# Documentation (local only)
+docs/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+*.log
+logs/
+
+# Test Documents (may contain sensitive data)
+test_documents/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# pgAdmin
+pgadmin/
